@@ -2,6 +2,8 @@
 
 Este projeto tem como objetivo criar uma lista de tarefas a serem realizadas pelo usuário, a pessoa conseguirá adicionar as tarefas e a medida que forem realizando-as poderá excluir as tarefas da list.
 
+!<img src = "src/images/to_do_list.gif">
+
 ## Tecnologias Utilizadas
 
 - HTML
